@@ -54,6 +54,8 @@ Luca Bolzani luca.bolzani@uni.lu
 
 Valentin Groues valentin.groues@uni.lu
 
+Rahel Paloots rahel.paloots@uzh.ch
+
 ## Expected outcomes
 
 We look forward to the development of:
